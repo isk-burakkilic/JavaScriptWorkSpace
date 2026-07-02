@@ -49,4 +49,3 @@ if(Number(sayi)==toplam){
 }else{
     alert("Armstrong sayısı değildir.");
 }
-
